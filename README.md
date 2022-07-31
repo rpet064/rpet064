@@ -5,4 +5,6 @@
 - 💞️ Feel free to fork or discuss any of my projects.
 - 📫 Reach me rpether@hotmail.co.nz
 
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpet064)](https://github.com/anuraghazra/github-readme-stats)
+
 
