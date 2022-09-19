@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rpet064
 - 👀 I’m interested in Web Development, Cloud Computing (Azure, AWS) and Application Design. 
-- 🌱 Currently developing Moodit - .Net, Postgres & React app project. 
+- 🌱 Currently developing Moodit - .Net, MySQL & React app project. 
 - 💞️ Feel free to fork or discuss any of my projects.
 - 📫 Reach me rpether@hotmail.co.nz
 
