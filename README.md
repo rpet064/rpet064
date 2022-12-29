@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rpet064
-- 👀 I’m interested in Web Development, Cloud Computing (Azure, AWS) and Application Design. 
-- 🌱 Currently developing Moodit - .Net, MySQL & React app project. 
+- 👀 Freelance Web Designer - specialising in creating eye-catching Full-Stack Web Applications and stylish webpages. 
+- 🌱 Currently available for freelance work and remote opportunities. 
 - 💞️ Feel free to fork or discuss any of my projects.
 - 📫 Reach me rpether@hotmail.co.nz
 
