@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rpet064
-- 👀 Freelance Web Designer - specialising in creating eye-catching Full-Stack Web Applications and stylish webpages. 
-- 🌱 Currently available for freelance work and remote opportunities. 
+- 👀 Available for full-time and freelance work opportunities. 
+- 🌱 Currently exploring opportunities for training and education in IT
 - 💞️ Feel free to fork or discuss any of my projects.
 - 📫 Reach me rpether@hotmail.co.nz
 
