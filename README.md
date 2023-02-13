@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rpet064
-- 👀 Available for full-time and freelance work opportunities. 
-- 🌱 Currently exploring opportunities for training and education in IT
+- 👀 Freelance Developer available for website and web application projects. 
+- 🌱 Currently studying Certificate in IT with University of Auckland
 - 💞️ Feel free to fork or discuss any of my projects.
 - 📫 Reach me rpether@hotmail.co.nz
 
