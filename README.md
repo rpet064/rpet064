@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rpet064
 - 👀 Freelance Developer available for website and web application projects. 
-- 🌱 Currently studying Certificate in IT with University of Auckland
+- 👀 https://personally-rob.vercel.app/ to learn more and make bookings.
+- 🌱 Currently studying Postgraudate Certificate in IT at University of Auckland.
 - 💞️ Feel free to fork or discuss any of my projects.
 - 📫 Reach me rpether@hotmail.co.nz
 
