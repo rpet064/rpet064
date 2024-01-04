@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @rpet064
-- 👀 Freelance Developer available for website and web application projects. 
-- 👀 https://personally-rob.vercel.app/ to learn more and make bookings.
-- 🌱 Currently studying Postgraudate Certificate in IT at University of Auckland.
-- 💞️ Feel free to fork or discuss any of my projects.
-- 📫 Reach me rpether@hotmail.co.nz
+- 👋 Kia ora, I’m Rob, full stack developer, previously middle school teacher
+- 🌱 Professionally specialised in web and desktop app development with VueJs/XAML/ASP.NET and SQL
+- 💞️ Always keen to discuss new projects and feel free to fork my projects
+- 📫 Get to know me more at the below social media;
+  
+Personal portfolio: https://personally-rob.vercel.app 
+Email: rpether@hotmail.co.nz
+LinkedIn: www.linkedin.com/in/robert-p-ba9968113
+Credely: https://www.credly.com/users/robert-pether
+Codewars: https://www.codewars.com/users/rpet064
 
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpet064)](https://github.com/rpet064/github-readme-stats)
 
