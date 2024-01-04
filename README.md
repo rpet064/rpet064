@@ -3,7 +3,7 @@
 - 💞️ Always keen to discuss new projects and feel free to fork my projects
 - 📫 Get to know me more at the below social media;
   
-Personal portfolio: https://personally-rob.vercel.app 
+Personal portfolio: https://personally-rob.vercel.app <br/>
 Email: rpether@hotmail.co.nz
 LinkedIn: www.linkedin.com/in/robert-p-ba9968113
 Credely: https://www.credly.com/users/robert-pether
