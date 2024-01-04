@@ -1,5 +1,5 @@
-- 👋 Kia ora, I’m Rob, full stack developer, previously middle school teacher
-- 🌱 Professionally specialised in web and desktop app development with VueJs/XAML/ASP.NET and SQL
+- 👋 Kia ora, I’m Rob, professional full stack developer, previously middle school teacher
+- 🌱 Specialised in web and desktop app development with VueJs/XAML/ASP.NET and SQL
 - 💞️ Always keen to discuss new projects and feel free to fork my projects
 - 📫 Get to know me more at the below social media;
   
