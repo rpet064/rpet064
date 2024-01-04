@@ -1,6 +1,6 @@
 - 👋 Kia ora, I’m Rob, professional full stack developer, previously middle school teacher
 - 🌱 Specialised in web and desktop app development with VueJs/XAML/ASP.NET and SQL
-- 💞️ Always keen to discuss new projects and feel free to fork my projects
+- 💞️ Always keen to discuss new projects, technologies and even AI. 
 - 📫 Get to know me more at the below social media;
   
 Personal portfolio: https://personally-rob.vercel.app <br/>
