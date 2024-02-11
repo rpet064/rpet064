@@ -7,6 +7,7 @@ Personal portfolio: https://personally-rob.vercel.app <br/>
 Email: rpether@hotmail.co.nz <br/>
 LinkedIn: www.linkedin.com/in/robert-p-ba9968113 <br/>
 Credely: https://www.credly.com/users/robert-pether <br/>
+Leetcode: https://leetcode.com/rpet064/ <br/>
 Codewars: https://www.codewars.com/users/rpet064 <br/>
 
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpet064)](https://github.com/rpet064/github-readme-stats)
